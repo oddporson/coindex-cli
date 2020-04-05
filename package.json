@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/oddporson/coindex-cli/issues"
   },
-  "homepage": "https://github.com/oddporson/coindex-cli#readme"
+  "homepage": "https://github.com/oddporson/coindex-cli#readme",
+  "dependencies": {}
 }
