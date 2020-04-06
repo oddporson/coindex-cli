@@ -1,5 +1,5 @@
 const inquirer = require('inquirer')
-const color = require('colors');
+const colors = require('colors');
 const KeyManager = require('../lib/KeyManager')
 const isRequired = require('../utils/validation')
 
